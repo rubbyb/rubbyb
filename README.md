@@ -32,3 +32,9 @@
 <p align="center">
 <img width-"50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubbyb&layout=compact&show_icons=true&theme=tokyonight" />
 </p>
+
+<br>
+
+<p align="center">
+<a align="center" href="github.com/rubbyb">@rubbyb</a>
+ </p>
