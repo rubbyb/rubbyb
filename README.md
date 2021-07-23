@@ -36,5 +36,5 @@
 <br>
 
 <p align="center">
-<a align="center" href="github.com/rubbyb">@rubbyb</a>
+<a align="center">@rubbyb</a>
  </p>
